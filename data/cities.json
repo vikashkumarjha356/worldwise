@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Kolkata",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-27T19:56:38.581Z",
+      "notes": "Wow",
+      "position": {
+        "lat": "22.71032284205226",
+        "lng": "88.40835571289062"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Al Jawf",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2024-09-27T19:57:57.993Z",
+      "notes": "",
+      "position": {
+        "lat": "20.3034175184893",
+        "lng": "22.5"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Arbancon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-27T20:17:11.570Z",
+      "notes": "",
+      "position": {
+        "lat": "40.97575093157537",
+        "lng": "-3.1475830078125004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Camarma de Esteruelas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-27T20:17:42.306Z",
+      "notes": "",
+      "position": {
+        "lat": "40.59727063442027",
+        "lng": "-3.3837890625000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-27T20:20:10.271Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71283990545276",
+        "lng": "-9.139251708984377"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-27T20:21:01.820Z",
+      "notes": "",
+      "position": {
+        "lat": "40.416175356693785",
+        "lng": "-3.7043666839599614"
+      },
+      "id": 98443204
+    }
+  ]
+}
