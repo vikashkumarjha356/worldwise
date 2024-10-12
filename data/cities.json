@@ -37,18 +37,6 @@
       "id": 98443201
     },
     {
-      "cityName": "Camarma de Esteruelas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-27T20:17:42.306Z",
-      "notes": "",
-      "position": {
-        "lat": "40.59727063442027",
-        "lng": "-3.3837890625000004"
-      },
-      "id": 98443202
-    },
-    {
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
@@ -61,14 +49,14 @@
       "id": 98443203
     },
     {
-      "cityName": "Madrid",
+      "cityName": "Alpandeire",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-09-27T20:21:01.820Z",
+      "date": "2024-10-12T08:26:54.212Z",
       "notes": "",
       "position": {
-        "lat": "40.416175356693785",
-        "lng": "-3.7043666839599614"
+        "lat": "36.65079252503471",
+        "lng": "-5.207519531250001"
       },
       "id": 98443204
     }
