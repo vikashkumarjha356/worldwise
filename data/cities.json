@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Kolkata",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-09-27T19:56:38.581Z",
-      "notes": "Wow",
-      "position": {
-        "lat": "22.71032284205226",
-        "lng": "88.40835571289062"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Al Jawf",
       "country": "Chad",
       "emoji": "🇹🇩",
@@ -59,6 +47,18 @@
         "lng": "-5.207519531250001"
       },
       "id": 98443204
+    },
+    {
+      "cityName": "Tarakeswar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-12T11:25:27.435Z",
+      "notes": "",
+      "position": {
+        "lat": "22.893822945006928",
+        "lng": "88.00048828125001"
+      },
+      "id": 98443205
     }
   ]
 }
